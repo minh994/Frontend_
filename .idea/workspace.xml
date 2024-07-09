@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa5ff274-425b-41cc-9b34-3af96b11d38e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/componets/Orders/OrdersTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/componets/Orders/OrdersTable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/componets/Products/ProductsTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/componets/Products/ProductsTable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/componets/createProduct/CreateProductFrom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/componets/createProduct/CreateProductFrom.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/componets/customers/customers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/componets/customers/customers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/componets/updateProduct/UpdateProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/componets/updateProduct/UpdateProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin/tables/CustomersTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin/tables/CustomersTable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Gouns/gouns.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Gouns/gouns.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Kurta/kurta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Men/men_jeans.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Men/men_kurta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Men/men_shirt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Men/mensKurta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Saree/lenghaCholiPage2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Saree/page1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Women/LenghaCholi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Women/LenghaCholi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Women/women_dress.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Women/women_jeans.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Women/women_top.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Women/women_top.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/dress/page1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/dress/page1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/pants/men_page1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/shoes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Homepage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Homepage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Admin/Orders/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Admin/Orders/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Admin/Product/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Admin/Product/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Admin/Product/ActionType.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Admin/Product/ActionType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Admin/Product/Reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Admin/Product/Reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Auth/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Auth/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Customers/Order/Action.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Customers/Order/Action.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Customers/Product/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Customers/Product/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Customers/Review/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Customers/Review/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/navigationMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/navigationMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Auth/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Carousel/HomeCaroselData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Carousel/HomeCaroselData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Cart/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Cart/Cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Cart/CartItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Cart/CartItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Checkout/AddAddress.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Checkout/AddAddress.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Checkout/OrderSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Checkout/OrderSummary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Home/HomeProductCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Home/HomeProductCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Navbar/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Navbar/Navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Product/Product/FilterData.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Product/Product/FilterData.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Product/Product/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Product/Product/Product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Product/ProductCard/ProductCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Product/ProductCard/ProductCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Product/ProductDetails/ProductDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Product/ProductDetails/ProductDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/Product/ProductDetails/ProductReviewCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/Product/ProductDetails/ProductReviewCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/ReviewProduct/RateProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/ReviewProduct/RateProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/orders/OrderCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/orders/OrderCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/orders/OrderDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/orders/OrderDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Components/paymentSuccess/PaymentSuccess.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Components/paymentSuccess/PaymentSuccess.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2j0PU5nearBbodgKSeeD01dbOba" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5ff274-425b-41cc-9b34-3af96b11d38e" name="Changes" comment="" />
+      <created>1720521057169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720521057169</updated>
+      <workItem from="1720521453113" duration="39000" />
+    </task>
+    <servers />
+  </component>
+</project>

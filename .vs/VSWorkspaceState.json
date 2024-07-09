@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\customer",
+    "\\src\\customer\\Components",
+    "\\src\\customer\\Components\\Navbar",
+    "\\src\\customer\\Components\\Product",
+    "\\src\\customer\\Components\\Product\\ProductCard",
+    "\\src\\Redux",
+    "\\src\\Redux\\Customers",
+    "\\src\\Redux\\Customers\\Review"
+  ],
+  "SelectedNode": "\\src\\customer\\Components\\Navbar\\Navigation.jsx",
+  "PreviewInSolutionExplorer": false
+}
